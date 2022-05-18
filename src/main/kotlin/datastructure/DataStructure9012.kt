@@ -1,3 +1,8 @@
+/**
+ * 괄호
+ * 문제 링크: https://www.acmicpc.net/problem/9012
+ */
+
 fun main() {
     val n = readln().toInt()
 

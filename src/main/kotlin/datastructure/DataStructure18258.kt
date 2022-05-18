@@ -1,5 +1,7 @@
-package datastructure
-
+/**
+ * 큐 2
+ * 문제 링크: https://www.acmicpc.net/problem/18258
+ */
 import java.io.BufferedReader
 import java.io.BufferedWriter
 import java.io.InputStreamReader
