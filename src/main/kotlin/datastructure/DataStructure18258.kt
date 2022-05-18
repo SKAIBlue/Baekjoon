@@ -93,4 +93,6 @@ fun main() {
         commandMap[split[0]]?.invoke(split.getOrNull(1)?.toInt())
     }
     writer.flush();
+    reader.close()
+    writer.close()
 }

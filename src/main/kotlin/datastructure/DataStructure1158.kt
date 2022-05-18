@@ -35,4 +35,6 @@ fun main() {
 
     writer.write("<${results.toList().joinToString(", ")}>")
     writer.flush()
+    reader.close()
+    writer.close()
 }
