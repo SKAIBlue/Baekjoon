@@ -3,10 +3,7 @@
  * 문제 링크: https://www.acmicpc.net/problem/10799
  */
 
-import java.io.BufferedReader
-import java.io.BufferedWriter
-import java.io.InputStreamReader
-import java.io.OutputStreamWriter
+import java.io.*
 
 fun main() {
     val reader = BufferedReader(InputStreamReader(System.`in`))
