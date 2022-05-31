@@ -5,8 +5,8 @@ import java.io.OutputStreamWriter
 import java.util.*
 
 /**
- * 탑
- * 문제 링크: https://www.acmicpc.net/problem/2493
+ * 데이터 체커
+ * 문제 링크: https://www.acmicpc.net/problem/22942
  */
 
 data class Circle (
